@@ -11,8 +11,8 @@
     <groupId>vnt.com</groupId>
     <artifactId>mssc-beer-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mssc-beer-service</name>
     <description>mssc-beer-service</description>
+    <name>mssc-beer-service</name>
     <properties>
         <java.version>11</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
